@@ -1,2 +1,1 @@
-# School-Project-UI
-# School-Project-UI
+# SchoolProject-UI
